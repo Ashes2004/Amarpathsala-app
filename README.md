@@ -1,50 +1,58 @@
-# Welcome to your Expo app 👋
+# 📚 Amar Pathsala
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Amar Pathsala** is a self-dependent educational app designed to enhance students' focus, productivity, and learning efficiency. It integrates gamification, AI-powered assistance, a distraction-free YouTube playlist manager, and mindfulness features to provide a seamless study experience.
 
-## Get started
+## 🚀 Features
 
-1. Install dependencies
+- 🎯 **Gamification** – Earn coins for daily visits, study completion, and meditation.
+- 📹 **YouTube Playlist Manager** – Add and manage YouTube playlists for distraction-free learning.
+- 🤖 **Amar Bot (AI Chatbot)** – Get instant doubt-solving assistance.
+- 🎵 **Meditation Mode** – Improve focus with relaxing music.
+- 📑 **To-Do List & Progress Tracking** – Organize study tasks and track achievements.
+- 🌐 **Amar Browser** – A built-in web browser optimized for educational searches.
+- 🎮 **Mini-Games** – Engage in cognitive-enhancing games using earned coins.
+- 🔥 **LocalStorage Support** – Stores user progress, playlists, and preferences offline.
 
-   ```bash
-   npm install
+## 🛠️ Tech Stack
+
+- **Frontend:** React Native + Tailwind CSS
+- **Storage:** LocalStorage & AsyncStorage for data persistence
+- **APIs:** YouTube Data API, AI Chatbot API (for Amar Bot), Meditation & Music API
+- **Authentication:** Firebase Authentication (if implemented later)
+
+## 📥 Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/Amar-Pathsala.git
+   cd Amar-Pathsala
    ```
 
-2. Start the app
-
-   ```bash
-    npx expo start
+2. **Install dependencies:**
+   ```sh
+   npm install  # or yarn install
    ```
 
-In the output, you'll find options to open the app in a
+3. **Run the application:**
+   ```sh
+   npm start  # or expo start (if using Expo)
+   ```
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 💡 How It Works
+- Users can add **YouTube playlists** and watch videos distraction-free.
+- Completing tasks like studying, meditation, and to-dos **earns coins**.
+- **Amar Bot** provides AI-powered doubt-solving assistance.
+- **Mini-games** and **progress tracking** help students stay engaged and consistent.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🤝 Contribution Guidelines
+1. **Fork** the repository and create a feature branch.
+2. Commit your changes with a descriptive message.
+3. Push the branch and create a **Pull Request**.
+4. Make sure to follow clean coding standards and proper documentation.
 
-## Get a fresh project
+## 📄 License
+This project is licensed under the **MIT License**.
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**🌟 Star this repo if you find it helpful!** ✨
