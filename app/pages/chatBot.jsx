@@ -108,7 +108,7 @@ const ChatBot = () => {
 
     setTimeout(async () => {
       const response = await fetch(
-        "https://amarpathsala-backend.vercel.app/api/ai",
+        "your-backend-url",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
