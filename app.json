@@ -1,0 +1,57 @@
+{
+  "expo": {
+    "name": "Amar Pathsala",
+    "slug": "amarpathsala",
+    "version": "1.1.4",
+    "orientation": "default",
+     "icon": "./assets/images/icon-app.jpg",
+    "scheme": "myapp",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 6,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon-app.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ashesdas.amarpathsalaapp"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/icon-app.jpg"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/logo.jpg",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#fff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "646d8e22-c3c2-4314-a78e-a541f10c2250"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/646d8e22-c3c2-4314-a78e-a541f10c2250"
+    }
+  }
+}

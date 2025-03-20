@@ -1,0 +1,82 @@
+{
+  "Playlist": [
+    {
+      "playlistTitle": "Life Lessons",
+      "playlistId": "PLWj1BNzDwv3uDvgNW0MdVGJuavQe2JXK4",
+      "videos": [
+        {
+          "title": "WAKE UP to a Better Life in 2025",
+          "videoId": "ftOl4tLHR3c",
+          "completed": false,
+          "description": "Start your day with motivation! This video shares powerful insights on transforming your life in 2025 with better habits and mindset."
+        },
+        {
+          "title": "21 Days Challenge - The Science of Getting Rich",
+          "videoId": "XtvfajQOAGQ",
+          "completed": false,
+          "description": "A 21-day challenge based on the book 'The Science of Getting Rich.' Learn how to develop a wealth mindset and achieve financial success."
+        },
+        {
+          "title": "Reprogram your Mind in 1 Day | Live Workshop by Him eesh Madaan",
+          "videoId": "_Wek6WS2zcU",
+          "completed": false,
+          "description": "A live workshop by Him eesh Madaan that teaches you how to reprogram your mind for success and break negative thought patterns in just one day."
+        }
+      ]
+    },
+    {
+      "playlistTitle": "Meditation",
+      "playlistId": "PLQiGxGHwiuD1kdxsWKFuhE0rITIXe-7yC",
+      "videos": [
+        {
+          "title": "10-Minute Meditation For Anxiety",
+          "videoId": "O-6f5wQXSu8",
+          "completed": false,
+          "description": "A guided 10-minute meditation to help reduce anxiety and promote relaxation, making you feel calmer and more centered."
+        },
+        {
+          "title": "5-Minute Meditation You Can Do Anywhere",
+          "videoId": "inpok4MKVLM",
+          "completed": false,
+          "description": "A short and effective 5-minute meditation that can be done anywhere to regain focus and clarity instantly."
+        },
+        {
+          "title": "15-Minute Meditation For Self Love",
+          "videoId": "itZMM5gCboo",
+          "completed": false,
+          "description": "A powerful 15-minute meditation designed to cultivate self-love, boost confidence, and promote positive self-affirmations."
+        },
+        {
+          "title": "10-Minute Meditation For Sleep",
+          "videoId": "aEqlQvczMJQ",
+          "completed": false,
+          "description": "A soothing 10-minute guided meditation to help you relax and fall asleep faster for a restful night's sleep."
+        }
+      ]
+    },
+    {
+      "playlistTitle": "Motivational Videos",
+      "playlistId": "PLF_7kfnwLFCHQDFtJ09WYyXSb6UL5Xg7E",
+      "videos": [
+        {
+          "title": "Padai Karte Rahe - All The Very Best - an important Message",
+          "videoId": "A-pAakRqg4A",
+          "completed": false,
+          "description": "A heartfelt message for students, reminding them of the importance of perseverance and dedication in their studies."
+        },
+        {
+          "title": "Motivational Video || Student Motivation || अभी नहीं तो कभी नहीं || ENDGAME - Whatever It Takes",
+          "videoId": "Cfqs0eHhrX4",
+          "completed": false,
+          "description": "An intense and powerful motivational video that encourages students to push their limits and give their best effort."
+        },
+        {
+          "title": "How to Increase Your Productivity",
+          "videoId": "XCYuoQX3I3E",
+          "completed": false,
+          "description": "Learn practical techniques to boost your productivity, stay focused, and get more work done effectively."
+        }
+      ]
+    }
+  ]
+}
