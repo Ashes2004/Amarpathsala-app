@@ -2,7 +2,7 @@
 
 **Amar Pathsala** is a self-dependent educational app designed to enhance students' focus, productivity, and learning efficiency. It integrates gamification, AI-powered assistance, a distraction-free YouTube playlist manager, and mindfulness features to provide a seamless study experience.
 
-[install now]('https://play.google.com/store/apps/details?id=com.ashesdas.amarpathsalaapp&hl=en_IN')
+[![Install Now](https://img.shields.io/badge/📲%20Install%20on%20Google%20Play-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.ashesdas.amarpathsalaapp&hl=en_IN)
 
 ## 🚀 Features
 
