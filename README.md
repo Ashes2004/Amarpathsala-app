@@ -52,8 +52,6 @@
 3. Push the branch and create a **Pull Request**.
 4. Make sure to follow clean coding standards and proper documentation.
 
-## 📄 License
-This project is licensed under the **MIT License**.
 
 ---
 
